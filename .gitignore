@@ -1,0 +1,12 @@
+.env
+.streamlit/
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env.local
+.DS_Store
+data/inventory_faiss/
+Smart_AI_Stock-main/
